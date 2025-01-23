@@ -23,6 +23,7 @@ header{
     gap: 10%;
     align-items: center;
     z-index: 2;
+    cursor: pointer;
 
     & img{
         width: 250px;
